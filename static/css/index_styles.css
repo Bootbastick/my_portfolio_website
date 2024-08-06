@@ -1,0 +1,48 @@
+.navbar-nav {
+    margin-left: auto;
+}
+.navbar-brand, .navbar-item {
+    color: #32CD32;
+}
+.nav-item {
+    padding: 0px 15px 0px;
+}
+
+.masthead {
+    background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../assets/img/img1.png");
+    padding: 300px 200px;
+    background-size: cover;
+}
+
+.sub-head {
+    color: black;
+}
+
+.about {
+    color:white;
+    padding: 50px 0px;
+}
+
+.features {
+    text-align: center;
+    padding: 100px;
+}
+
+.features-p .features-h3 icon {
+    padding: 20px;
+}
+
+.icon {
+    font-size: 40px;
+    color: #32CD32;
+}
+
+.contact-link{
+    padding: 50px 0 100px;
+}
+
+/* Works for everything: */
+
+.sec-head {
+    color: #32CD32;
+}
